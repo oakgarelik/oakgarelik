@@ -3,7 +3,7 @@
 Hey there! I'm Oak Garelik, a Computer Engineering student at the Polytechnic Faculty of the National University of Asunción. based in Paraguay. I'm passionate about , and I love leveraging technology to solve real-world problems.
 
 ## About Me
-I’m an 18-year-old Paraguayan aspiring computer engineer with a passion for creating inventive solutions. Currently pursuing my degree in Computer Engineering at the Polytechnic Faculty of the National University of Asunción, i am actively honing my programming skills
+I’m an 19-year-old Paraguayan aspiring computer engineer with a passion for creating inventive solutions. Currently pursuing my degree in Computer Engineering at the Polytechnic Faculty of the National University of Asunción, i am actively honing my programming skills
 
 I'm enthusiastic about exploring the intersection of technology and daily life, particularly in the realm of domotics. In my free time I like to automate my room and my desk using TriggerCMD to control my space with my smart assistant
 
